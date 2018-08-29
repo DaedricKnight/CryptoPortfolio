@@ -1,0 +1,4 @@
+#Tue Aug 21 10:36:49 MSK 2018
+base.0=/Users/shadowlegionary7/Downloads/CryptoPortfolio/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.jakewharton:kotterknife:0.1.0-SNAPSHOT] /home/dzenin/.gradle/caches/transforms-1/files-1.1/kotterknife-0.1.0-SNAPSHOT.aar/dd3c37eaf6e2d71f1cb5efe8dfec3b36/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/047a876548acd79315055ed8541cb422/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3749c66684afe366f4f4d69d6a68a4af/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4ef49926b1f1aa117affcad8e93651f8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/54a77a447952ae2150c3055d51718b30/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c614ee873c3aff7daa8d7ba1af1a53dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d40993021efd8167fef0f6b64a0b8830/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/3d1c28b855c46285724bce6ba38f7ea5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2c3ef3b4ab2ed19ba9ae405599aba7bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e009b42b1e273171cc1732d871aa0361/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0bfae95c55539d3753e03b64ad8dd6d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c2add955b9b99a19d417e350d40b87dd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6a1d20a0fb84ffb79d22ff738c49df05/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4293bff3260637a37c54c557ad75e1df/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9f2f6cab55a435c53a49e6536e0bb67a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a224d17fc4ee7f775239352b169078bf/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:5:22-78
+application
+ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.jakewharton:kotterknife:0.1.0-SNAPSHOT] /home/dzenin/.gradle/caches/transforms-1/files-1.1/kotterknife-0.1.0-SNAPSHOT.aar/dd3c37eaf6e2d71f1cb5efe8dfec3b36/AndroidManifest.xml:11:5-20
+MERGED from [com.jakewharton:kotterknife:0.1.0-SNAPSHOT] /home/dzenin/.gradle/caches/transforms-1/files-1.1/kotterknife-0.1.0-SNAPSHOT.aar/dd3c37eaf6e2d71f1cb5efe8dfec3b36/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3749c66684afe366f4f4d69d6a68a4af/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3749c66684afe366f4f4d69d6a68a4af/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4ef49926b1f1aa117affcad8e93651f8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4ef49926b1f1aa117affcad8e93651f8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/54a77a447952ae2150c3055d51718b30/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/54a77a447952ae2150c3055d51718b30/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/3d1c28b855c46285724bce6ba38f7ea5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/3d1c28b855c46285724bce6ba38f7ea5/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.research.whitedzenin.cryptoportfolio.MainActivity
+ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+MERGED from [com.jakewharton:kotterknife:0.1.0-SNAPSHOT] /home/dzenin/.gradle/caches/transforms-1/files-1.1/kotterknife-0.1.0-SNAPSHOT.aar/dd3c37eaf6e2d71f1cb5efe8dfec3b36/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:kotterknife:0.1.0-SNAPSHOT] /home/dzenin/.gradle/caches/transforms-1/files-1.1/kotterknife-0.1.0-SNAPSHOT.aar/dd3c37eaf6e2d71f1cb5efe8dfec3b36/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/047a876548acd79315055ed8541cb422/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/047a876548acd79315055ed8541cb422/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3749c66684afe366f4f4d69d6a68a4af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3749c66684afe366f4f4d69d6a68a4af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4ef49926b1f1aa117affcad8e93651f8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4ef49926b1f1aa117affcad8e93651f8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/54a77a447952ae2150c3055d51718b30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/54a77a447952ae2150c3055d51718b30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c614ee873c3aff7daa8d7ba1af1a53dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c614ee873c3aff7daa8d7ba1af1a53dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d40993021efd8167fef0f6b64a0b8830/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d40993021efd8167fef0f6b64a0b8830/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/3d1c28b855c46285724bce6ba38f7ea5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/3d1c28b855c46285724bce6ba38f7ea5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2c3ef3b4ab2ed19ba9ae405599aba7bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2c3ef3b4ab2ed19ba9ae405599aba7bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e009b42b1e273171cc1732d871aa0361/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e009b42b1e273171cc1732d871aa0361/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0bfae95c55539d3753e03b64ad8dd6d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0bfae95c55539d3753e03b64ad8dd6d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c2add955b9b99a19d417e350d40b87dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c2add955b9b99a19d417e350d40b87dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6a1d20a0fb84ffb79d22ff738c49df05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6a1d20a0fb84ffb79d22ff738c49df05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4293bff3260637a37c54c557ad75e1df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4293bff3260637a37c54c557ad75e1df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9f2f6cab55a435c53a49e6536e0bb67a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9f2f6cab55a435c53a49e6536e0bb67a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a224d17fc4ee7f775239352b169078bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/dzenin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a224d17fc4ee7f775239352b169078bf/AndroidManifest.xml:20:5-44
+INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4ef49926b1f1aa117affcad8e93651f8/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+		ADDED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dzenin/Документы/GitHub/CryptoPortfolio/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4ef49926b1f1aa117affcad8e93651f8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/54a77a447952ae2150c3055d51718b30/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/54a77a447952ae2150c3055d51718b30/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/3d1c28b855c46285724bce6ba38f7ea5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/3d1c28b855c46285724bce6ba38f7ea5/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4ef49926b1f1aa117affcad8e93651f8/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.2] /home/dzenin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/4ef49926b1f1aa117affcad8e93651f8/AndroidManifest.xml:27:13-51
